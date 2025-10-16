@@ -1,5 +1,10 @@
 PROJECT - CITIBIKE ANALYSIS
 
+Introduction:
+Hired as an Analytics consultant by citi bike data to determine citi bike usage during the week , and to determine ways to increase bike usage.
+
+This comprehensive analysis provides an in-depth understanding of bike usage in terms of types of consumers, time of the year and area in use. With a strategic roadmap, citi bike can improve their customer base as well as exapnd to new locations.
+
 Business Questions
 What type of customer should we target, and what are their preferences?
 What are the most popular pick-up locations across the city for Citi Bike rental?
@@ -34,3 +39,4 @@ Unable to figure out male vs female bike usage.
 
 
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
