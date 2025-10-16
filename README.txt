@@ -37,6 +37,10 @@ Create an app to reserve bikes in advance.
 Data Limitations
 Unable to figure out male vs female bike usage.
 
+Data Source:
+This was a guided project as part of the UT Bootcamp. Tableau-Tutorial
+
 
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
 
