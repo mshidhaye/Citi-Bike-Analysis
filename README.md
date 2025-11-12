@@ -35,6 +35,7 @@
   <p>
     The top 10 stations were primarily located in <b>Jersey City</b>, with fewer in Hoboken and New York.
   </p>
+  images/Bike map.jpg
   <img src="images/bike_map.png" alt="Top 10 Bike Stations" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); margin:1rem 0;">
 
   <h4>Bike Use</h4>
@@ -92,4 +93,5 @@
     Visualization created in Tableau.  
     <br>
  
+
 </section>
